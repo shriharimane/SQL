@@ -1,0 +1,10 @@
+SQL> SELECT ENAME , SAL*12
+  2  FROM EMP
+  3  WHERE (JOB ='CLERK' OR JOB = 'MANAGER') AND (DEPTNO='10' OR DEPTNO='30');
+
+ENAME          SAL*12
+---------- ----------
+BLAKE           34200
+CLARK           29400
+JAMES           11400
+MILLER          15600
