@@ -1,4 +1,4 @@
 SELECT *
 FROM EMP
 WHERE JOB = 'CLERK'
-  AND SAL < 1500;
+  AND SAL < 1500;          
