@@ -1,6 +1,6 @@
 
 SQL*Plus: Release 11.2.0.2.0 Production on Thu Dec 4 15:50:51 2025
-
+ c             
 Copyright (c) 1982, 2014, Oracle.  All rights reserved.
 
 SQL> SHOW USER;
