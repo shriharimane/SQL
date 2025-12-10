@@ -1,4 +1,4 @@
 SELECT *
-FROM EMP
+FROM EMP 
 WHERE JOB = 'CLERK'
   AND SAL < 1500;          
